@@ -42,7 +42,7 @@ To know more about JSON Server please visit: https://jsonplaceholder.typicode.co
 
 Template license
 ----------------
-Written in 2017 by Himani Arora
+Written in 2017 by Himani Arora and Prabhat Kashyap
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
